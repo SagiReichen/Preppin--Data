@@ -1,0 +1,9 @@
+quarter,Online or In-Person,Value,target,variance_to_target
+1,Online,74562,72500,2062
+1,In-Person,77576,75000,2576
+2,Online,69325,70000,-675
+2,In-Person,70634,70000,634
+3,Online,59072,60000,-928
+3,In-Person,74189,70000,4189
+4,Online,61908,60000,1908
+4,In-Person,43223,60000,-16777
