@@ -1,0 +1,21 @@
+student_id,test_score,subject,first_name,last_name,test_score_int,attendance_flag,attendance_percentage
+1001,95.5,Math,Alice,Smith,96.0,Medium Attendance,0.75
+1002,82.0,English,Bob,Jones,82.0,Medium Attendance,0.9
+1003,78.75,Science,Charlie,Brown,79.0,High Attendance,0.95
+1004,91.25,Math,David,Wilson,91.0,Medium Attendance,0.8
+1005,88.0,Science,Eve,Taylor,88.0,Medium Attendance,0.7
+1006,76.8,English,Frank,Lee,77.0,Low Attendance,0.6
+1007,86.5,Math,Grace,Kim,87.0,High Attendance,1.0
+1008,92.75,Science,Henry,Chen,93.0,Medium Attendance,0.9
+1009,83.2,English,Irene,Wong,83.0,Medium Attendance,0.8
+1010,88.33,Math,Jack,Brown,88.0,Medium Attendance,0.85
+1011,89.75,Science,Kate,Liu,90.0,Medium Attendance,0.7
+1012,87.1,English,Liam,Cooper,87.0,Low Attendance,0.6
+1013,92.9,Math,Mary,Davis,93.0,Medium Attendance,0.75
+1014,94.25,Science,Nate,Hall,94.0,Medium Attendance,0.8
+1015,91.7,English,Olivia,Kim,92.0,High Attendance,1.0
+1016,87.45,Math,Paul,Jackson,87.0,Medium Attendance,0.9
+1017,88.12,Science,Quinn,Wang,88.0,Medium Attendance,0.7
+1018,85.8,English,Rachel,Tan,86.0,Low Attendance,0.6
+1019,89.6,Math,Sam,Kim,90.0,High Attendance,1.0
+1020,91.9,Science,Tina,Lee,92.0,Medium Attendance,0.8
