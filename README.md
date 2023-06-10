@@ -16,25 +16,12 @@ For the majority of the solutions, two options can be found:
 <br/><br/>
 ### Weeks Tracker
 ---
-**YEAR 2023**
-- [x] Week 01
-- [x] Week 02
-- [x] Week 03
-- [x] Week 04
-- [x] Week 05
-- [x] Week 06
-- [x] Week 07
-- [x] Week 08
-- [x] Week 09
-- [x] Week 10
-- [x] Week 11
-- [x] Week 12
-- [x] Week 13
-- [x] Week 14
-- [x] Week 15
-- [x] Week 16
-- [x] Week 17
-- [x] Week 18
-- [x] Week 19
-- [x] Week 20
-- [x] Week 21
+**YEAR 2023**<br>
+
+| <a href=".\2023\W01">Week 01</a> | <a href=".\2023\W02">Week 02</a> | <a href=".\2023\W03">Week 03</a> | <a href=".\2023\W04">Week 04</a><br>
+| <a href=".\2023\W05">Week 05</a> | <a href=".\2023\W06">Week 06</a> | <a href=".\2023\W07">Week 07</a> | <a href=".\2023\W08">Week 08</a><br>
+| <a href=".\2023\W09">Week 09</a> | <a href=".\2023\W10">Week 10</a> | <a href=".\2023\W11">Week 11</a> | <a href=".\2023\W12">Week 12</a><br>
+| <a href=".\2023\W13">Week 13</a> | <a href=".\2023\W14">Week 14</a> | <a href=".\2023\W15">Week 15</a> | <a href=".\2023\W16">Week 16</a><br>
+| <a href=".\2023\W17">Week 17</a> | <a href=".\2023\W18">Week 18</a> | <a href=".\2023\W19">Week 19</a> | <a href=".\2023\W20">Week 20</a><br>
+| <a href=".\2023\W21">Week 21</a> | <a href=".\2023\W22">Week 22</a> | <a href=".\2023\W23">Week 23</a> | Week 24<br>
+| Week 25 | Week 26 | Week 27 | Week 28<br>
