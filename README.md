@@ -1,5 +1,5 @@
-## Purpose
----
+# Introduction<br>
+
 This repository shares practice for different data preparation use cases and tasks based on the community's initiative challenge called [**"Preppin' Data"**](https://preppindata.blogspot.com/) . 
 
 Each sub-folder is named after its corresponding week number, and each one of them contains a solution for the weekly challenge.
@@ -8,10 +8,10 @@ Each sub-folder is named after its corresponding week number, and each one of th
 For the majority of the solutions, two options can be found:
 
 - Using Tableau Prep
-- Using Python, primarily utilizing the [Polars module](https://pola-rs.github.io/polars/py-polars/html/index.html).
+- Using Python, primarily utilizing the [Polars dataframe library](https://pola-rs.github.io/polars/py-polars/html/index.html).
 <br/><br/>
 
-> Note: A few of the Tableau Prep solutions are not fully complete due to issues or bugs. These issues may be resolved in future releases of the tool, which prevented me from completing the solutions.
+> Note: A few of the Tableau Prep solutions are not fully complete due to issues or bugs, which prevented me from completing the solutions. These issues may be resolved in future releases of the tool.
 
 <br/><br/>
 ### Weeks Tracker
@@ -23,5 +23,5 @@ For the majority of the solutions, two options can be found:
 | <a href=".\2023\W09">Week 09</a> | <a href=".\2023\W10">Week 10</a> | <a href=".\2023\W11">Week 11</a> | <a href=".\2023\W12">Week 12</a><br>
 | <a href=".\2023\W13">Week 13</a> | <a href=".\2023\W14">Week 14</a> | <a href=".\2023\W15">Week 15</a> | <a href=".\2023\W16">Week 16</a><br>
 | <a href=".\2023\W17">Week 17</a> | <a href=".\2023\W18">Week 18</a> | <a href=".\2023\W19">Week 19</a> | <a href=".\2023\W20">Week 20</a><br>
-| <a href=".\2023\W21">Week 21</a> | <a href=".\2023\W22">Week 22</a> | <a href=".\2023\W23">Week 23</a> | Week 24<br>
+| <a href=".\2023\W21">Week 21</a> | <a href=".\2023\W22">Week 22</a> | <a href=".\2023\W23">Week 23</a> | <a href=".\2023\W24">Week 24</a><br>
 | Week 25 | Week 26 | Week 27 | Week 28<br>
