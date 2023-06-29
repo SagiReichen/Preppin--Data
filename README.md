@@ -24,4 +24,4 @@ For the majority of the solutions, two options can be found:
 | <a href=".\2023\W13">Week 13</a> | <a href=".\2023\W14">Week 14</a> | <a href=".\2023\W15">Week 15</a> | <a href=".\2023\W16">Week 16</a><br>
 | <a href=".\2023\W17">Week 17</a> | <a href=".\2023\W18">Week 18</a> | <a href=".\2023\W19">Week 19</a> | <a href=".\2023\W20">Week 20</a><br>
 | <a href=".\2023\W21">Week 21</a> | <a href=".\2023\W22">Week 22</a> | <a href=".\2023\W23">Week 23</a> | <a href=".\2023\W24">Week 24</a><br>
-| <a href=".\2023\W25">Week 25</a> | Week 26 | Week 27 | Week 28<br>
+| <a href=".\2023\W25">Week 25</a> | <a href="./2023/W26">Week 26</a> | Week 27 | Week 28<br>
