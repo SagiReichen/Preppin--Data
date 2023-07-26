@@ -2,6 +2,23 @@ from pathlib import Path
 
 import polars as pl
 
+# NOTE:
+# -----------------------------------------------------------------------------
+# the python solution output gives a different result set than the provided 
+# results set from the preppin' team. The reason is that i've decided to account
+# for all bike types and stores to show data up from the the minimum date and the
+# max date range. in the offical result data set, they only accounted for the max
+# date (june 2023), without taking into account a common min date. whereas I took 
+# the intiative for account (Jan 2020) as a minimum bench mark for all of the bike type
+# and stores. 
+#
+# therefore all of them have monthly date range from jan 2020 - june 2023 without
+# data gaps
+
+
+
+
+
 # load the dataset
 # -----------------------------------------------------------------------------
 
