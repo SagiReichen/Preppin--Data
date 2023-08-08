@@ -1,0 +1,21 @@
+store,fiscal_quarter,sales,%_diff_QoQ,store_evaluation
+Birmingham,1,817566,,Going from bad to worse
+Birmingham,2,789741,817566,Going from bad to worse
+Birmingham,3,772146,789741,Going from bad to worse
+Birmingham,4,691905,772146,Going from bad to worse
+Leeds,1,747018,,Concerning performance in last half
+Leeds,2,812230,747018,Concerning performance in last half
+Leeds,3,714956,812230,Concerning performance in last half
+Leeds,4,631632,714956,Concerning performance in last half
+London,1,735165,,Good growth in last half
+London,2,656078,735165,Good growth in last half
+London,3,752235,656078,Good growth in last half
+London,4,764934,752235,Good growth in last half
+Manchester,1,695042,,Concerning performance in last half
+Manchester,2,733195,695042,Concerning performance in last half
+Manchester,3,667428,733195,Concerning performance in last half
+Manchester,4,651432,667428,Concerning performance in last half
+York,1,561464,,"Some good growth, but concerns in Q3"
+York,2,675254,561464,"Some good growth, but concerns in Q3"
+York,3,641792,675254,"Some good growth, but concerns in Q3"
+York,4,800036,641792,"Some good growth, but concerns in Q3"
